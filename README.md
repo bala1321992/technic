@@ -1,0 +1,2 @@
+# technic
+technic_interview
